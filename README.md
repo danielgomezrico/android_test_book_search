@@ -18,10 +18,3 @@ Developed with Android Studio
 
 [Ray Wenderlich tutorial](http://www.raywenderlich.com/56109/make-first-android-app-part-1
  but will be thoroughly reviewed and discussed.)
-
-
-## About
-
-+ MakinGIANTS
-+ http://www.makingiants.com
-+ here.makin.giants@gmail.com
